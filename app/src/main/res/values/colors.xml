@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="bluefr">#42ECDA</color>
+    <color name="blueend">#2B3E79</color>
+    <color name="midfr">#CF789A</color>
+    <color name="midend">#920B3D</color>
+    <color name="redfr">#E4D5D4</color>
+    <color name="redend">#F50430</color>
+
+</resources>
